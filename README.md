@@ -1,6 +1,6 @@
 ## Hi, I'm Tshiamo 🌸
 
-📈 Bachelor Of Computing Student at Belgium Campus iTversity
+📈 Bachelor Of Computing Student at Belgium Campus iTversity<br>
 🧠 Business Intelligence Major  
 🌐 Aspiring ML/AI Engineer and Data Analyst  
 🔗 [LinkedIn](http://www.linkedin.com/in/tshiamo-nkhumeleni-257b06290)
